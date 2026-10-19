@@ -28,13 +28,6 @@ I take security so seriously that I don't even trust my own shadow. I'm basicall
 
 Explore. Analyze. Secure. (and occasionally reboot).
 
-🛡️ My Security Arsenal (In Training)
-<div align="center">
-Security Operations (SOC)	Network & Forensics	Scripting & Automation
-https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white	https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black	https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white	https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/Nessus-00A1E0?style=for-the-badge&logo=tenable&logoColor=white	https://img.shields.io/badge/Autopsy-333333?style=for-the-badge&logo=autopsy&logoColor=white	https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-</div>
 📊 Smart Stats & Activity
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bryan-mut67&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-mut67&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-mut67&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" width="48%" /></div>
